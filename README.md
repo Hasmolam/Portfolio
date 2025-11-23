@@ -27,7 +27,7 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyi
 
 1. Projeyi klonlayın:
    ```bash
-   git clone https://github.com/Hasmolam/portfolyo.git
+   git clone https://github.com/Hasmolam/Portfolio.git
    ```
 
 2. Proje dizinine gidin:
